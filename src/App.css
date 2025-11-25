@@ -1,0 +1,14 @@
+/* Estilos personalizados para la landing page */
+
+@layer utilities {
+  .delay-1000 {
+    animation-delay: 1s;
+  }
+}
+
+/* Reset y estilos generales */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
